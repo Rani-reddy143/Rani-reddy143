@@ -9,7 +9,7 @@
 
 - 📝Interest In [Dancing,Crafting,Viedo editing](Dancing,Crafting,Viedo editing)
 
-- 💬 Ask me about **HTML,CSS,JS,PYTHON,DATA SCIENCE**
+- 💬 Ask me about **HTML,CSS,JS,PYTHON,SQL,DATA SCIENCE**
 
 - 📫 How to reach me **jaanureddy647@gmail.com**
 
